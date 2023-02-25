@@ -10,6 +10,8 @@ packages = [{include = "brand_new_shit"}]
 python = "^3.10"
 pandas = "^1.5.2"
 openpyxl = "^3.0.10"
+matplotlib = "^3.7.0"
+numpy = "^1.24.2"
 
 
 [build-system]
